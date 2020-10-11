@@ -1,0 +1,37 @@
+
+body{
+	background-color: #64A7AD!important;
+}
+#top-bar{
+	text-align: center;
+	padding: 5px;
+	width: 100%;
+	background-color:#EEEEEE;
+}
+.leftSide,.rightSide{
+
+	height: 220px;;
+	width: 100%
+}
+.leftSide{
+	background: #cfddff;
+}
+.rightSide{
+	background: #cfddff;
+}
+#botones{
+	width: 50%;
+margin-top: 10px;
+	text-align: center;
+}
+#btnNext{
+	margin-top: 30px;
+}
+
+.puntaje{
+
+color: red;
+text-align: center;
+margin: 0 auto;
+
+}
