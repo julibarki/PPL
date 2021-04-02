@@ -10,5 +10,6 @@ You can challenge artificial intelligence in a beautiful 3-point game.
 <li>Css</li>
 <li>Bootstrap</li>
 <li>JavaScript</li>
+  </ul>
 <h2>Contributing</h2>
 <h4>If you like the project, shoot a 🌟 and feel free to fork & send PR anytime.</h4>
